@@ -20,7 +20,7 @@ Primeiros Passos em HTML:
 
 Pauta fotográfica da turma:
 
-- [Resultado;](https://pedooor.github.io/pt05_tabela/)
+- [Resultado;](https://franciscocaleiro.github.io/caricaturas12-12/)
 - [Repositório;](https://github.com/pedooor/pt05_tabela)
 
 [passo1]: https://franciscocaleiro.github.io/estrutura-html/paragrafos.html
