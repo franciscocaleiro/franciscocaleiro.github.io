@@ -23,7 +23,7 @@ Pauta fotográfica da turma:
 - [Resultado;](https://pedooor.github.io/pt05_tabela/)
 - [Repositório;](https://github.com/pedooor/pt05_tabela)
 
-[passo1]: https://franciscocaleiro.github.io/estrutura-html/passo 1 - headings e parágrafos.html
+[passo1]: https://franciscocaleiro.github.io/estrutura-html/passo_1_-_headings_e_parágrafos.html
 [passo2]: https://pedooor.github.io/primeiros_passos_html/cabecalhos.html
 [passo3]: https://pedooor.github.io/primeiros_passos_html/paragrafo.html
 [passo4]: https://pedooor.github.io/primeiros_passos_html/links.html
