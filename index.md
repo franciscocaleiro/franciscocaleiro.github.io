@@ -20,7 +20,7 @@ Primeiros Passos em HTML:
 
 Pauta fotográfica da turma:
 
-- [Resultado;](https://franciscocaleiro.github.io/PT05/)
+- [Resultado;](https://franciscocaleiro.github.io/PT05/index.html)
 - [Repositório;](https://github.com/franciscocaleiro/PT05)
 
 [passo1]: https://franciscocaleiro.github.io/estrutura-html/documento.html
