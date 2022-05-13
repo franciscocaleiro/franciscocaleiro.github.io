@@ -28,3 +28,8 @@ Pauta fotográfica da turma:
 [passo3]: https://franciscocaleiro.github.io/estrutura-html/paragraphs.html
 [passo4]: https://franciscocaleiro.github.io/estrutura-html/links.html
 [passo5]: https://franciscocaleiro.github.io/estrutura-html/imagens.html
+
+
+Aqui encontram-se todos os documentos relativos ao PT06.
+
+
