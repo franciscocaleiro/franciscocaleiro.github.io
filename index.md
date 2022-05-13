@@ -50,5 +50,5 @@ Aqui encontram-se todos os documentos criados no âmbito da PT06.
   
 Fiz uma tabela interativa com top 10 de músicas de Rock.
 
-- [Resultado;](https://franciscocaleiro.github.io/PT06/tabela original/rock.html)
+- [Resultado;](https://franciscocaleiro.github.io/PT06/tabela_original/rock.html)
 - [Repositório;](https://franciscocaleiro.github.io/PT06)
