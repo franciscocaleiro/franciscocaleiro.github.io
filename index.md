@@ -56,4 +56,4 @@ Fiz uma tabela interativa com top 10 de músicas de Rock.
 [exemplo5]: <https://franciscocaleiro.github.io/PT06/5/5.html>
  
 - [Resultado;](https://franciscocaleiro.github.io/PT06/tabela_original/rock.html)
-- [Repositório;](https://franciscocaleiro.github.io/PT06)
+- [Repositório;](https://franciscocaleiro.github.io/PT06/tabela_original/)
