@@ -43,7 +43,7 @@ Aqui encontram-se todos os documentos criados no âmbito da PT06.
 | formatar todos os elementos identificados pela classe ".centro" | [Exemplo 3][exemplo3] |
 | formatar somente os elementos <p> identificados pela classe ".centro" | [Exemplo 4][exemplo4] |
 | formatar somente os elementos <p> identificados pelas classes ".centro" e/ou ".largo" | [Exemplo 5][exemplo5] |
-| Repositório | [Link Direto](https://github.com/franciscocaleiro/primeiros_passos_html) |
+| Repositório | [Link Direto](https://github.com/franciscocaleiro/pt06) |
  
 #### Tabela Opcional
   
